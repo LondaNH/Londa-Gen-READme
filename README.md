@@ -18,4 +18,4 @@ https://drive.google.com/file/d/1Yd29y1TtR8M3vbVkt0-2mAqEMcdaG-eY/view
 https://github.com/LondaNH/Londa-Gen-READme
 
 ## Screenshot
-<img src="readmescreenshot.png" width="500px"/>
+<img src="readmescreenshot.PNG" width="500px"/>
